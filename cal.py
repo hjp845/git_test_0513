@@ -4,9 +4,9 @@ from divide import divide
 from multiply import multiply
 
 
-a = input("input a")
+a = input("input a: ")
 a = int(a)
-b = input("input b")
+b = input("input b: ")
 b = int(b)
 
 print("===============")
